@@ -1,0 +1,116 @@
+{
+  "dht11_value": [
+    {
+      "humidity": 77,
+      "temperature": 24,
+      "timestamp": "10-11-2023 12:20:17",
+      "time_counter": 5099,
+      "id": 1
+    },
+    {
+      "humidity": 78,
+      "temperature": 24,
+      "timestamp": "10-11-2023 12:20:27",
+      "time_counter": 15974,
+      "id": 2
+    },
+    {
+      "humidity": 78,
+      "temperature": 24,
+      "timestamp": "10-11-2023 12:20:33",
+      "time_counter": 21099,
+      "id": 3
+    },
+    {
+      "humidity": 78,
+      "temperature": 24,
+      "timestamp": "10-11-2023 12:20:38",
+      "time_counter": 26191,
+      "id": 4
+    },
+    {
+      "humidity": 78,
+      "temperature": 24,
+      "timestamp": "10-11-2023 12:20:43",
+      "time_counter": 31285,
+      "id": 5
+    },
+    {
+      "humidity": 77,
+      "temperature": 24.10000038,
+      "timestamp": "10-11-2023 12:20:48",
+      "time_counter": 36385,
+      "id": 6
+    },
+    {
+      "humidity": 77,
+      "temperature": 24.10000038,
+      "timestamp": "10-11-2023 12:20:53",
+      "time_counter": 41513,
+      "id": 7
+    },
+    {
+      "humidity": 77,
+      "temperature": 23.89999962,
+      "timestamp": "10-11-2023 12:20:58",
+      "time_counter": 46573,
+      "id": 8
+    },
+    {
+      "humidity": 77,
+      "temperature": 24.10000038,
+      "timestamp": "10-11-2023 12:21:03",
+      "time_counter": 51668,
+      "id": 9
+    },
+    {
+      "humidity": 77,
+      "temperature": 24.10000038,
+      "timestamp": "10-11-2023 12:21:08",
+      "time_counter": 56755,
+      "id": 10
+    },
+    {
+      "humidity": 77,
+      "temperature": 24,
+      "timestamp": "10-11-2023 12:21:13",
+      "time_counter": 61831,
+      "id": 11
+    },
+    {
+      "humidity": 77,
+      "temperature": 24,
+      "timestamp": "10-11-2023 12:21:19",
+      "time_counter": 67063,
+      "id": 12
+    },
+    {
+      "humidity": 77,
+      "temperature": 24,
+      "timestamp": "10-11-2023 12:21:24",
+      "time_counter": 72145,
+      "id": 13
+    },
+    {
+      "humidity": 78,
+      "temperature": 24,
+      "timestamp": "10-11-2023 12:21:29",
+      "time_counter": 77248,
+      "id": 14
+    },
+    {
+      "humidity": 77,
+      "temperature": 24.10000038,
+      "timestamp": "10-11-2023 12:21:34",
+      "time_counter": 82334,
+      "id": 15
+    },
+    {
+      "humidity": 77,
+      "temperature": 24.10000038,
+      "timestamp": "10-11-2023 12:21:39",
+      "time_counter": 87432,
+      "id": 16
+    }
+  ]
+}
